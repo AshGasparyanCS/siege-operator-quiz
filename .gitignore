@@ -1,0 +1,10 @@
+# Local Claude Code preview config (not needed for the site)
+.claude/
+
+# Original source icons — the committed copy lives in icons/
+High-resolution PNG/
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
