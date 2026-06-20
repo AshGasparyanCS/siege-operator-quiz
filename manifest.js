@@ -238,6 +238,10 @@ window.OPERATORS = [
     "name": "SMOKE"
   },
   {
+    "file": "solid snake.png",
+    "name": "SOLID SNAKE"
+  },
+  {
     "file": "solis.png",
     "name": "SOLIS"
   },
